@@ -42,6 +42,6 @@ border: 2px solid #6b4b2a;
 article img{
 
 width: 300px;
-height: auto;
-
+height: 200px;
+object-fit: contain;
 }
