@@ -1,6 +1,27 @@
 body {
 
-background-color: #d6c29a;
-
+background-color: #d3bc8ef3;
+color: black;
 
 }
+
+main {
+
+max-width: 1000px;
+margin: auto;
+padding: 30px;
+
+}
+
+header{
+
+text-align: center;
+padding: 40px;
+
+}
+
+
+
+
+
+
