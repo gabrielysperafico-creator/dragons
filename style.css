@@ -24,8 +24,19 @@ gap: 20px;
 
 }
 
+h1{
+font-size: 45px;
+text-transform: uppercase;
 
+}
 
+article{
 
+background-color: #ead8ad;
+padding: 25px;
+margin: 30px 0;
+border: 2px solid #6b4b2a; 
+
+}
 
 
