@@ -1,8 +1,8 @@
-function showinfo(image) {
-    const article = image.parentElement;
-const info = article.querySelectionALL (."dragon-info");
+function showInfo(Image) {
+    const article = Image.parentElement;
+const Info = article.querySelectorAll (."dragon-info");
 
-info.forEach(element => {
+Info.forEach(element => {
     element.style.display = "block";
 });
 
