@@ -11,7 +11,7 @@ Info.forEach(element => {
 
 
 function showInfo(Image) {
-  alert("cliquei!");
+  alert(article.outerHTML.substring(0, 100));
  const article = Image.parentElement;
  const Info = article.querySelectorAll(".dragon-info");
 
