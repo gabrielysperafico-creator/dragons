@@ -46,5 +46,11 @@ height: 200px;
 object-fit: contain;
 }
 
+.creditos > article {
+
+    color: red;
+}
+
+
 
 
